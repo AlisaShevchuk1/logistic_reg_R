@@ -1,5 +1,9 @@
 # logistic_reg_R
 data for homework
+1. Make a prediction using logistic regression 
+for Y in bacteria file an for headache in Kostecky file
+2. Choose the best threshold for the model, using ROC curve
+
 
 # bacteria description
 
